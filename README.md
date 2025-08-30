@@ -1,0 +1,1 @@
+# Qt6_CMake_Console_Template
